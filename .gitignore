@@ -1,0 +1,13 @@
+﻿.env
+.env.local
+.env.production
+*.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+node_modules/
+*.exe
+*.bat
+*.cmd
